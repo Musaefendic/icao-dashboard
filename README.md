@@ -11,7 +11,7 @@ This dashboard is designed to analyze ICAO databanks, focusing on `emissions`, `
 
 
 ## Demonstration video
-[![ICAO Dashboard Demo](https://github.com/Musaefendic/icao-dashboard/assets/13497379/933d7b99-9cbf-4448-9cdf-240fa62ba8e0)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=X7cH4RE7grc))
+[![Demonstration video](https://github.com/Musaefendic/icao-dashboard/assets/13497379/933d7b99-9cbf-4448-9cdf-240fa62ba8e0)](https://www.youtube.com/watch?v=X7cH4RE7grc)
 
 
 ## Dashboard page
