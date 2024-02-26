@@ -15,7 +15,7 @@ This dashboard is designed to analyze ICAO databanks, focusing on `emissions`, `
 
 
 ## Dashboard page
-![image](https://github.com/Musaefendic/icao-dashboard/assets/13497379/81a861e0-e0f4-42dd-b39b-229af60c3353)
+![image](https://github.com/Musaefendic/icao-dashboard/assets/13497379/f677f9e9-517b-4fe8-b5b7-32edb1c03687)
 
 
 ## Select pollutant emissions
